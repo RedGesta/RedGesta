@@ -1,4 +1,4 @@
-# RedGesta.github
+# RedGesta.com
 
 🎓 Red Gesta
 Bienvenidos a Red Gesta, una plataforma educativa privada diseñada para proporcionar recursos formativos de calidad a estudiantes y profesionales de diversas áreas. Ofrecemos una selección exclusiva de cursos, carreras y talleres para ayudarte a alcanzar tus objetivos de aprendizaje.
@@ -34,5 +34,5 @@ Nuestros programas ofrecen certificaciones reconocidas dentro de la organizació
 📩 Contáctanos
 ¿Tienes preguntas sobre algún curso o sobre cómo empezar? Estamos aquí para ayudarte.
 
-📧 Correo de Soporte: soporte@nombreplataforma.com
+📧 Correo de Soporte: soporte@redgesta.com
 🌐 Visítanos: https://redgesta.com
